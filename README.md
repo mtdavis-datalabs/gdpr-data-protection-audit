@@ -8,6 +8,12 @@ An audit of a fictional small nature conservation charity's (West London Wetland
 core principles (Article 5) and the ICO Accountability Framework, covering donor 
 data, volunteer vetting records, consent management, and breach response.
 
+## Disclaimer
+West London Wetlands & Parks Trust is a fictional organisation created for this 
+exercise. All data, practices, and findings described are invented for the 
+purpose of demonstrating a compliance audit methodology, and do not represent any 
+real organisation, individual, or dataset.
+
 ## Key Findings
 - RAG-rated checklist across all 7 UK GDPR core principles plus charity-specific 
   areas (consent renewal, subject access requests, breach response, DPIA usage)
@@ -25,10 +31,17 @@ data, volunteer vetting records, consent management, and breach response.
 Microsoft Excel — RAG checklist, conditional formatting
 Microsoft Word — audit report, professional formatting
 
+## Skills Demonstrated
+Regulatory framework research and application, risk assessment and RAG rating, 
+policy gap analysis, written audit reporting for a non-technical audience, 
+data governance and compliance thinking
+
 ## Files
 compliance_checklist.xlsx — full checklist across all principles and risk areas
+
 audit_report.docx / audit_report.pdf — methodology, findings and recommendations
 
 ## Reference Framework
 ICO Guide to UK GDPR (Article 5, seven core principles) and ICO Accountability 
 Framework — ico.org.uk
+
