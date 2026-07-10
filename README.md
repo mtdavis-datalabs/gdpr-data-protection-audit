@@ -1,4 +1,4 @@
-## Data Protection & GDPR Compliance Checklist
+# Data Protection & GDPR Compliance Checklist
 
 <img width="1907" height="231" alt="Image" src="https://github.com/user-attachments/assets/34fa6d5a-37d8-477f-a7f0-5572b6a0bf50" />
 
